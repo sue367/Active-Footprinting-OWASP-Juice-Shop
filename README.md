@@ -44,7 +44,7 @@ An HTTP HEAD request was sent to http://localhost:3000 to inspect the server sta
 ![Check HTTP Response Headers with curl](Screenshot%202026-11-24%20234101.png)
 • Command Executed: curl -I http://localhost:3000<br>
 • Timestamp: Tue, 24 Nov 2026 15:11:51 GMT (23:11:51 +08)<br>
-• What It Proves: At 15:11:51 GMT on 24 November 2026, http://localhost:3000 responded to a HEAD<br>
+• What It Proves: At 15:11:51 GMT on 24 November 2026, http://localhost:3000 responded to a HEAD
 request with HTTP/1.1 200 OK, Content-Type: text/html; charset=UTF-8, Content-Length: 9831, and the 
 listed response headers.<br> 
 • What It Suggests: A web service is actively serving HTML content on port 3000. The custom X-Recruiting: 
