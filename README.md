@@ -1,6 +1,6 @@
 # Lab 4 (Week 5): Active Footprinting & Reconnaissance Report
 
-* **Student Name:** Nurul Suhaila
+* **Student Name:** Nurul Suhaila Binti Anissufian
 * **Student ID:** 52215125568
 * **Class / Section:** L01-B01
 * **Course:** Computer System Security
