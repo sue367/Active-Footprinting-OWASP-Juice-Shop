@@ -2,7 +2,7 @@
 
 * **Student Name:** Nurul Suhaila Binti Anissufian
 * **Student ID:** 52215125568
-* **Class / Section:** L01-B01
+* **Class:** L01-B01
 * **Course:** Computer System Security
 * **Assessment Date & Time:** 24 November 2026, ~23:11 – 23:15 +08
 
